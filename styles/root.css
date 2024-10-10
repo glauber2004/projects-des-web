@@ -1,0 +1,15 @@
+:root {
+    /* Colors */
+    --purple: #483EFF;
+    --skyBlue: #BEE2FD;
+    --darkBlue: #022959;
+    --gray: #9699AA;
+    --lightBlue: #ABBCFF;
+    --border: #D6D9E6;
+    --white: #FFFFFF;
+
+    /*Typography*/
+    --font-regular: "Ubuntu-Regular";
+    --font-medium: "Ubuntu-Medium";
+    --font-bold: "Ubuntu-Bold"; 
+}
