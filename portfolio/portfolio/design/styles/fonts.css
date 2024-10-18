@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'SpaceGrotesk-Bold';
+    src: url('/projects-des-web/portfolio/portfolio/assets/fonts/static/SpaceGrotesk-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'SpaceGrotesk-Medium';
+    src: url('/projects-des-web/portfolio/portfolio/assets/fonts/static/SpaceGrotesk-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'SpaceGrotesk-VariableFont';
+    src: url('/projects-des-web/portfolio/portfolio/assets/fonts/SpaceGrotesk-VariableFont_wght.ttf');
+}

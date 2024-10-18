@@ -1,0 +1,21 @@
+:root {
+    /* Colors */
+    --black: #151515;
+    --grey-dark: #242424;
+    --grey-white: #D9D9D9;
+    --green: #4EE1A0;
+    --white: #FFFFFF;
+
+    /*Typography*/
+    --font-spacegrotesk-bold: "SpaceGrotesk-Bold";
+    --font-spacegrotesk-medium: "SpaceGrotesk-Medium";
+    --font-spacegrotesk-variable: "SpaceGrotesk-VariableFont";
+
+    /* Spaces */
+    --space-500: 40px;
+    --space-300: 24px;
+    --space-200: 16px;
+    --space-150: 12px;
+    --space-100: 8px;
+    --space-50: 4px;
+}
